@@ -1,5 +1,7 @@
 # ReasonAbleAI
 
+An event framework for LLMs to achieve complex reasoning asynchronously.
+
 ## Context
 
 ChatGPT regurgitating facts is a party trick. The true value of Generative AI is its ability to organise information and then reason. This is a proposed open source self-improving auditable framework using Large Language Models (LLMs) like ChatGPT and [Mixtral](https://mistral.ai/news/mixtral-of-experts/).
